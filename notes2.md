@@ -1,20 +1,20 @@
 ## Unit 1
 ### Vocabulary 
-aetas—age  
-aurum—gold  
-ceteri—the others  
-consentio—agree  
-cum—when  
-felix—happy  
-gaudeo—rejoice  
-loquor—talk  
-passus—step or pace  
-potens—powerful  
-praeterea—besides  
-statim—at once  
-statua—statue  
-totidem—the same number  
-verso—turn over  
+aetas - age  
+aurum - gold  
+ceteri - the others  
+consentio - agree  
+cum - when  
+felix - happy  
+gaudeo - rejoice  
+loquor - talk  
+passus - step or pace  
+potens - powerful  
+praeterea - besides  
+statim - at once  
+statua - statue  
+totidem - the same number  
+verso - turn over  
 
 
 ### Grammar Rules
@@ -32,21 +32,21 @@ Deponent verbs are irregular in that they appear in passive form but actually ha
 
 ## Unit 2
 ### Vocabulary
-aliquis—someone  
-arbor—tree  
-cano—sing  
-compleo—fill  
-exeo—go  
-fons—spring  
-ingredior—enter  
-oraculum—oracle  
-plerique—most  
-pridie—on the day before  
-quidam—certain (one)  
-redeo—return  
-spondeo—promise  
-studeo—be eager  
-vesper—evening 
+aliquis - someone  
+arbor - tree  
+cano - sing  
+compleo - fill  
+exeo - go  
+fons - spring  
+ingredior - enter  
+oraculum - oracle  
+plerique - most  
+pridie - on the day before  
+quidam - certain (one)  
+redeo - return  
+spondeo - promise  
+studeo - be eager  
+vesper - evening 
 
 
 ### Grammar Rules  
@@ -60,21 +60,21 @@ In English, our indefinite pronouns are words that refer to things or people in 
 ## Unit 3
 
 ### Vocabulary
-adeo—go to  
-adorior—rise up to  
-augeo—increase  
-circiter—about  
-concedo—withdraw  
-etsi—although  
-exercitus—army  
-flagellum—whip  
-fortiter—bravely  
-fraus—wrong doing  
-hortor—urge  
-interrogo—question  
-later—brick  
-oro—beg  
-solum—only  
+adeo - go to  
+adorior - rise up to  
+augeo - increase  
+circiter - about  
+concedo - withdraw  
+etsi - although  
+exercitus - army  
+flagellum - whip  
+fortiter - bravely  
+fraus - wrong doing  
+hortor - urge  
+interrogo - question  
+later - brick  
+oro - beg  
+solum - only  
 
 
 ###Grammar Rules
@@ -87,28 +87,28 @@ The future passive participle is often called the gerundive. To create the futur
 A direct command occurs with the imperative mood. For example, “Come here, right now!” An indirect command occurs with words of asking, ordering, commanding, etc. (rogo, peto, quaero, mando, impero, moneo, persuadeo, etc.). When these words are used, the clause that explains what was asked, sought, etc., uses a subjunctive verb. The entire clause acts as the direct object of the main verb in the sentence. For example, “He commanded that the battle be fought.” He commanded what? That the battle be fought. In Latin, the dependent clause (that the battle be fought) uses a subjunctive verb. When these words of asking, ordering, commanding, etc., are used, the person who is asked, ordered, commanded, etc., will be in the dative, the accusative, or the ablative cases. The case that should be used will depend upon the verb being used. (See 3.3)
 
 #### Noun Clauses of Result
-Verbs that mean “happen,” “cause,” “affect,” “bring about,” etc., are often followed by ut or ut non and a subjunctive clause. Once again, these subjunctive clauses are acting as direct objects to the main verb and, therefore, are called noun clauses of result (they give us the result of the main verb). For example, “It happened that I crashed my car four years ago.” (This is a true story. It was my dream car—convertible, leather everything, fully loaded. I mourned for it like a friend.) Anyway, “that I crashed my car four years ago,” tells what happened. Therefore, it is acting as a direct object of the verb telling the result. (See 3.3)
+Verbs that mean “happen,” “cause,” “affect,” “bring about,” etc., are often followed by ut or ut non and a subjunctive clause. Once again, these subjunctive clauses are acting as direct objects to the main verb and, therefore, are called noun clauses of result (they give us the result of the main verb). For example, “It happened that I crashed my car four years ago.” (This is a true story. It was my dream car - convertible, leather everything, fully loaded. I mourned for it like a friend.) Anyway, “that I crashed my car four years ago,” tells what happened. Therefore, it is acting as a direct object of the verb telling the result. (See 3.3)
 
 #### Gerunds
 In English, a gerund is the -ing form of a verb when it is acting as a noun. For example, “Skiing is fun.” In this sentence, skiing is a gerund. In Latin, the nominative form of the gerund is the present active infinitive of the verb (to ski is fun). In the other four cases, the gerund is formed by taking the present stem of the verb and adding the same endings as the masculine singular gerundive. Although they look very much alike, gerunds and gerundives have different functions in sentences. They also have different characteristics. The biggest key to determining whether a word is a gerund or a gerundive is to look to see whether or not it agrees with something else in the sentence. (See 3.4)
 
 ## Unit 4
 ### Vocabulary
-aditus—approach  
-admoneo—remind  
-circumvenio—surround  
-dedo—surrender  
-differo—differ  
-diligens—careful  
-magnitudo—greatness  
-fio—become  
-hic—here  
-moror—delay  
-mulier—woman  
-noceo—harm  
-placeo—please  
-quamquam—although  
-reverto—turn back  
+aditus - approach  
+admoneo - remind  
+circumvenio - surround  
+dedo - surrender  
+differo - differ  
+diligens - careful  
+magnitudo - greatness  
+fio - become  
+hic - here  
+moror - delay  
+mulier - woman  
+noceo - harm  
+placeo - please  
+quamquam - although  
+reverto - turn back  
 
 
 ### Grammar Rules
@@ -126,21 +126,21 @@ With some verbs (such as impero, permitto, persuadeo), a dative is used as an in
 ## Unit 5
 
 ### Vocabulary  
-adiungo—join to  
-anguis—serpent  
-confero—bring together  
-evenio—turn out  
-ferox—bold  
-flamma—flame  
-fors—chance  
-iuvo—aid  
-lumen—light  
-mos—custom  
-pectus—heart  
-sino—allow  
-terribilis—frightful  
-veto—forbid  
-vulnero—wound  
+adiungo - join to  
+anguis - serpent  
+confero - bring together  
+evenio - turn out  
+ferox - bold  
+flamma - flame  
+fors - chance  
+iuvo - aid  
+lumen - light  
+mos - custom  
+pectus - heart  
+sino - allow  
+terribilis - frightful  
+veto - forbid  
+vulnero - wound  
 
 
 ###Grammar Rules
@@ -149,27 +149,27 @@ vulnero—wound
 As you may have noticed, some verbs are compounds of other verbs that you already know but with prefixes attached to them. Often, the compounding of the verb changes its meaning a little bit. This verb is often followed by a dative. The English equivalents of these words often call for a to or a for to help the sentence make sense. It is similar in Latin, except that the to or for is understood in the dative case. It is important to know this: if the uncompounded form of the verb is transitive (it takes a direct object), the compounded form can be followed by both a dative and an accusative. (See 5.2)
 
 #### Locative Case
-As you have already learned, to express place where in Latin, you use “in + the ablative case (in insula—on the island).” When you are using the names of cities or towns, small islands, domus, or rus, you should use what is known as the locative case. It is easy to remember what the locative case means if you remember that the word locative comes from locus (place). The best way to translate the locative case is to use the words at or in plus the meaning of the word (Romae—at Rome). (See 5.3)
+As you have already learned, to express place where in Latin, you use “in + the ablative case (in insula - on the island).” When you are using the names of cities or towns, small islands, domus, or rus, you should use what is known as the locative case. It is easy to remember what the locative case means if you remember that the word locative comes from locus (place). The best way to translate the locative case is to use the words at or in plus the meaning of the word (Romae - at Rome). (See 5.3)
 
 ## Unit 6
 
 
 ### Vocabulary
-arx—citadel  
-augustus—magnificent  
-circumdo—put around  
-coniuro—conspire  
-conor—try  
-dens—tooth  
-figo—fix  
-inopia—lack  
-olim—once  
-postulo—demand  
-sedeo—cit  
-stipendium—pay  
-venter—stomach  
-vereor—fear  
-vinum—wine  
+arx - citadel  
+augustus - magnificent  
+circumdo - put around  
+coniuro - conspire  
+conor - try  
+dens - tooth  
+figo - fix  
+inopia - lack  
+olim - once  
+postulo - demand  
+sedeo - cit  
+stipendium - pay  
+venter - stomach  
+vereor - fear  
+vinum - wine  
 
 
 ### Grammar Rules
@@ -177,7 +177,7 @@ vinum—wine
 The subjunctive clause after verbs of fearing are introduced in exactly the opposite way of what you are used to. After verbs of fearing such as timeo and vereor (any verb that suggests fear), there will be a subjunctive clause telling what is being feared. This clause will be introduced by a ne for a positive clause and an ut for a negative clause. The uses of ut and ne here are exactly the opposite of what you use for a purpose clause. Be sure to remember that the ut and the ne mean the opposite of what they usually mean here. I remember this by remembering that people often get confused when they are afraid. So, it is in clauses used after verbs of fearing that the meanings of these words are opposite. In translating and creating these clauses, use the normal sequence of tenses. (See 6.2)
 
 #### Impersonal Verbs
-There are some verbs in Latin that appear only in the third person singular. These verbs are translated “it is + ________ (the meaning of the word).” They are almost always followed by an infinitive. Some impersonal verbs take special cases. Licet (it is permitted) takes the dative of the person (to whom it is permitted). Placet (it is pleasing) takes the dative of person (to whom it is pleasing). Oportet (it is necessary) takes the accusative (like indirect discourse—accusative subject and infinitive verb). The trick to these words is recognizing them and remembering that they must be translated “it is ________.” (See 6.3)
+There are some verbs in Latin that appear only in the third person singular. These verbs are translated “it is + ________ (the meaning of the word).” They are almost always followed by an infinitive. Some impersonal verbs take special cases. Licet (it is permitted) takes the dative of the person (to whom it is permitted). Placet (it is pleasing) takes the dative of person (to whom it is pleasing). Oportet (it is necessary) takes the accusative (like indirect discourse - accusative subject and infinitive verb). The trick to these words is recognizing them and remembering that they must be translated “it is ________.” (See 6.3)
 
 #### Genitive of the Whole
 The genitive of the whole, sometimes called the partitive genitive, represents the whole to which the part is taken. It is similar to our approach in English. Note that pars is not very specific, but familiae tells us what the whole from which the part is taken. The partitive genitive is often used after words such as nihil, satis, and quis/quid. (See 6.4)
@@ -186,22 +186,22 @@ The genitive of the whole, sometimes called the partitive genitive, represents t
 
 
 ### Vocabulary
-adigo—throw to  
-coepi—began  
-collis—hill  
-complexus—embraced  
-consido—sit down  
-deficio—fail  
-facies—appearance  
-fallo—deceive  
-incolumis—unharmed  
-lacrima—tear  
-nascor—be born  
-pello—drive  
-proficio—accomplish  
-quisque—each  
-salubris—wholesome  
-suscipio—undertake  
+adigo - throw to  
+coepi - began  
+collis - hill  
+complexus - embraced  
+consido - sit down  
+deficio - fail  
+facies - appearance  
+fallo - deceive  
+incolumis - unharmed  
+lacrima - tear  
+nascor - be born  
+pello - drive  
+proficio - accomplish  
+quisque - each  
+salubris - wholesome  
+suscipio - undertake  
 
 
 ### Grammar Rules 
@@ -222,21 +222,21 @@ Quisque (each) when used as a pronoun is declined like quis. When used as an adj
 ## Unit 8
 
 ### Vocabulary
-admitto—send to  
-aggredior—attack  
-audax—bold  
-bis—twice  
-diversus—different  
-iuvenis—young man  
-mula—mule  
-neglego—neglect  
-obses—hostage  
-posco—demand  
-rursus—again  
-simulo—pretend  
-tego—cover  
-timor—fear  
-vultus—expression  
+admitto - send to  
+aggredior - attack  
+audax - bold  
+bis - twice  
+diversus - different  
+iuvenis - young man  
+mula - mule  
+neglego - neglect  
+obses - hostage  
+posco - demand  
+rursus - again  
+simulo - pretend  
+tego - cover  
+timor - fear  
+vultus - expression  
 
 
 ### Grammar Rules
