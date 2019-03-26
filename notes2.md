@@ -77,7 +77,7 @@ oro - beg
 solum - only  
 
 
-###Grammar Rules
+### Grammar Rules
 
 
 #### Future Passive Participle/Gerundive
@@ -143,7 +143,7 @@ veto - forbid
 vulnero - wound  
 
 
-###Grammar Rules
+### Grammar Rules
 
 #### Datives with Special Verbs
 As you may have noticed, some verbs are compounds of other verbs that you already know but with prefixes attached to them. Often, the compounding of the verb changes its meaning a little bit. This verb is often followed by a dative. The English equivalents of these words often call for a to or a for to help the sentence make sense. It is similar in Latin, except that the to or for is understood in the dative case. It is important to know this: if the uncompounded form of the verb is transitive (it takes a direct object), the compounded form can be followed by both a dative and an accusative. (See 5.2)
